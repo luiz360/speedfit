@@ -1,0 +1,22 @@
+{
+  "name": "SpeedFit - Gestão para Personal Trainers",
+  "short_name": "SpeedFit",
+  "description": "Assistente financeiro, de agendamento e acompanhamento remoto para profissionais de fitness",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
